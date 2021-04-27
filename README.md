@@ -1,6 +1,4 @@
 ### Languages and Tools:
-
-
 ![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)
 ![Matlab](https://img.shields.io/badge/-MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=FFFFFF)
 ![Octave](https://img.shields.io/badge/-Octave-0790c0?style=for-the-badge&logo=octave&logoColor=FFFFFF)
@@ -13,9 +11,14 @@
 ![Jira](https://img.shields.io/badge/-Jira-3776AB?style=for-the-badge&logo=Jira&logoColor=FFFFFF)
 
 ### Learning (tutorials accomplished but no real work experience)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF)
+
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/-C_%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
