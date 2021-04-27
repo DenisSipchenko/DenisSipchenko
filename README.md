@@ -10,7 +10,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-3776AB?style=for-the-badge&logo=Jira&logoColor=FFFFFF)
 
-### Learning (tutorials accomplished but no real work experience)
+### Learning (no real work experience)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
