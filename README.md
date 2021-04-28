@@ -32,4 +32,4 @@
 ### Follow Me:
 [![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=FFFFFF)](https://stackoverflow.com/users/6165594/denis)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/denis-sipchenko)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/DenisSipchenko "dsf")
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/DenisSipchenko)
