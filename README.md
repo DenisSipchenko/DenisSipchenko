@@ -1,6 +1,5 @@
 ### Languages and Tools:
-[![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)]()
-[![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)]
+![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)
 ![Matlab](https://img.shields.io/badge/-MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=FFFFFF)
 ![Octave](https://img.shields.io/badge/-Octave-0790c0?style=for-the-badge&logo=octave&logoColor=FFFFFF)
 ![Power_BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=000000)
@@ -33,3 +32,6 @@
 [![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=FFFFFF)](https://stackoverflow.com/users/6165594/denis)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/denis-sipchenko)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/DenisSipchenko)
+
+
+[![](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)](#)
