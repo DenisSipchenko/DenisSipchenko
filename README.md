@@ -1,8 +1,7 @@
 ### Languages and Tools:
-<a href="https://www.credly.com/badges/2b089012-27f7-4c6d-ba99-7c88569dd71e" title="Link to Certificate" style="color: transparent;" target="_blank">
+<a href="https://www.credly.com/badges/2b089012-27f7-4c6d-ba99-7c88569dd71e" title="Link to Certificate"  target="_blank" style="padding: 10px;">
  <img alt="Microsoft_SQL_Server"  src="https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF"  height=40>
  <img alt="Microsoft_SQL_Server"  src="https://images.credly.com/size/340x340/images/85c76aaa-ffea-442a-8c0a-9c0589514d83/Querying_Data_with_Transact-SQL-01.png" height=40>
- <br><br>
 </a>
 
 
