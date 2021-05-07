@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
 <style>
     img.a {height:58.5px};
@@ -52,4 +50,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/DenisSipchenko)
 
 </body>
-</html>
