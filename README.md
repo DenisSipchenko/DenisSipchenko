@@ -32,7 +32,8 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](#)
 
- <!--![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF)
+ <!--
+ ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF)
  -->
 ### Follow Me:
 [![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=FFFFFF)](https://stackoverflow.com/users/6165594/denis)
