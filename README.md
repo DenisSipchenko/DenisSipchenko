@@ -1,7 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    img.a {height:58.5px};
+</style>
+</head>
+<body>
+
 ### Languages and Tools:
-<a href="https://www.credly.com/badges/2b089012-27f7-4c6d-ba99-7c88569dd71e" title="Link to Certificate"  target="_blank" style="padding: 10px; color:transparent;">
- <img alt="Microsoft_SQL_Server"  src="https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF"  height=35>
- <img alt="Microsoft_SQL_Server"  src="https://images.credly.com/size/340x340/images/85c76aaa-ffea-442a-8c0a-9c0589514d83/Querying_Data_with_Transact-SQL-01.png" height=35>
+
+<a href="https://www.credly.com/badges/2b089012-27f7-4c6d-ba99-7c88569dd71e" title="Link to Certificate"  target="_blank" style="line-height: 2.9; color:transparent;">
+ <img class="a" alt="Microsoft_SQL_Server"  src="https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF">
+ <img class="a" alt="Microsoft_SQL_Server"  src="https://images.credly.com/size/340x340/images/85c76aaa-ffea-442a-8c0a-9c0589514d83/Querying_Data_with_Transact-SQL-01.png">
 </a>
 
 
@@ -32,6 +42,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](#)
 
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF)
  <!--
  ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=FFFFFF)
  -->
@@ -39,3 +50,6 @@
 [![Stack_Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=FFFFFF)](https://stackoverflow.com/users/6165594/denis)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/denis-sipchenko)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/DenisSipchenko)
+
+</body>
+</html>
