@@ -1,13 +1,9 @@
-<head>
-<style>
-    img.a {height:58.5px};
-</style>
-</head>
-<body>
-
 ### Languages and Tools:
 
 <a href="https://www.credly.com/badges/2b089012-27f7-4c6d-ba99-7c88569dd71e" title="Link to Certificate"  target="_blank" style="line-height: 2.9; color:transparent;">
+<style>
+    img.a {height:58.5px};
+</style>
  <img class="a" alt="Microsoft_SQL_Server"  src="https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF">
  <img class="a" alt="Microsoft_SQL_Server"  src="https://images.credly.com/size/340x340/images/85c76aaa-ffea-442a-8c0a-9c0589514d83/Querying_Data_with_Transact-SQL-01.png">
 </a>
